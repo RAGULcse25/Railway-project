@@ -1,0 +1,51 @@
+number,name,route,departure,arrival,time,seats,fare
+T001,Brindavan Express,Jaipur to Mumbai,7:00 AM,10:00 PM,4 hours,15,510
+T002,Grand Trunk Express,Patna to Kolkata,8:00 AM,11:00 PM,4 hours,8,520
+T003,Vaigai Express,Jaipur to Mumbai,9:00 AM,12:00 PM,4 hours,29,530
+T004,Grand Trunk Express,Pune to Chennai,10:00 AM,13:00 PM,5 hours,7,540
+T005,Garib Rath Express,Delhi to Agra,11:00 AM,14:00 PM,2 hours,40,550
+T006,Nilgiri Mountain Train,Chennai to Mysore,12:00 AM,15:00 PM,4 hours,48,560
+T007,Kerala Express,Delhi to Agra,13:00 AM,16:00 PM,3 hours,36,570
+T008,Pandian Express,Goa to Bengaluru,14:00 AM,17:00 PM,5 hours,47,580
+T009,Garib Rath Express,Patna to Kolkata,15:00 AM,18:00 PM,4 hours,10,590
+T010,Pandian Express,Lucknow to Varanasi,16:00 AM,19:00 PM,4 hours,15,600
+T011,Himalayan Queen,Chennai to Kanyakumari,17:00 AM,20:00 PM,2 hours,7,610
+T012,Dakshin Express,Pune to Chennai,6:00 AM,9:00 PM,5 hours,26,620
+T013,Himalayan Queen,Coimbatore to Bengaluru,7:00 AM,10:00 PM,5 hours,47,630
+T014,Chennai Mail,Jaipur to Mumbai,8:00 AM,11:00 PM,2 hours,4,640
+T015,Shatabdi Express,Goa to Bengaluru,9:00 AM,12:00 PM,3 hours,7,650
+T016,Konkan Railway,Trivandrum to Chennai,10:00 AM,13:00 PM,2 hours,6,660
+T017,Mandovi Express,Jaipur to Mumbai,11:00 AM,14:00 PM,4 hours,33,670
+T018,Howrah Express,Lucknow to Varanasi,12:00 AM,15:00 PM,5 hours,21,680
+T019,Grand Trunk Express,Mumbai to Goa,13:00 AM,16:00 PM,3 hours,43,690
+T020,Jan Shatabdi Express,Jaipur to Mumbai,14:00 AM,17:00 PM,2 hours,2,700
+T021,Deccan Queen,Delhi to Agra,15:00 AM,18:00 PM,4 hours,11,710
+T022,Brindavan Express,Bhopal to Chennai,16:00 AM,19:00 PM,3 hours,6,720
+T023,Shatabdi Express,Chennai to Mangalore,17:00 AM,20:00 PM,4 hours,43,730
+T024,Mangalore Express,Patna to Kolkata,6:00 AM,9:00 PM,4 hours,19,740
+T025,Palace on Wheels,Delhi to Kolkata,7:00 AM,10:00 PM,4 hours,7,750
+T026,Brindavan Express,Pune to Chennai,8:00 AM,11:00 PM,4 hours,7,760
+T027,Pandian Express,Trivandrum to Chennai,9:00 AM,12:00 PM,3 hours,24,770
+T028,Nilgiri Mountain Train,Lucknow to Varanasi,10:00 AM,13:00 PM,4 hours,16,780
+T029,Howrah Express,Lucknow to Varanasi,11:00 AM,14:00 PM,2 hours,5,790
+T030,Duronto Express,Delhi to Agra,12:00 AM,15:00 PM,2 hours,37,800
+T031,Tejas Express,Pune to Chennai,13:00 AM,16:00 PM,4 hours,10,810
+T032,Vaigai Express,Delhi to Agra,14:00 AM,17:00 PM,5 hours,44,820
+T033,Kerala Express,Delhi to Agra,15:00 AM,18:00 PM,3 hours,49,830
+T034,Pandian Express,Trivandrum to Chennai,16:00 AM,19:00 PM,3 hours,32,840
+T035,Palace on Wheels,Hyderabad to Chennai,17:00 AM,20:00 PM,2 hours,49,850
+T036,Himalayan Queen,Mumbai to Goa,6:00 AM,9:00 PM,2 hours,2,860
+T037,Mysore Express,Pune to Chennai,7:00 AM,10:00 PM,2 hours,8,870
+T038,Konkan Railway,Jaipur to Mumbai,8:00 AM,11:00 PM,2 hours,11,880
+T039,Pandian Express,Coimbatore to Bengaluru,9:00 AM,12:00 PM,4 hours,42,890
+T040,Mysore Express,Chennai to Mangalore,10:00 AM,13:00 PM,5 hours,37,900
+T041,Duronto Express,Lucknow to Varanasi,11:00 AM,14:00 PM,4 hours,28,910
+T042,Coromandel Express,Coimbatore to Bengaluru,12:00 AM,15:00 PM,2 hours,17,920
+T043,Palace on Wheels,Lucknow to Varanasi,13:00 AM,16:00 PM,2 hours,31,930
+T044,Himalayan Queen,Delhi to Agra,14:00 AM,17:00 PM,5 hours,35,940
+T045,Mysore Express,Bhopal to Chennai,15:00 AM,18:00 PM,5 hours,18,950
+T046,Netravati Express,Jaipur to Mumbai,16:00 AM,19:00 PM,5 hours,30,960
+T047,Howrah Express,Bhopal to Chennai,17:00 AM,20:00 PM,3 hours,11,970
+T048,Himalayan Queen,Patna to Kolkata,6:00 AM,9:00 PM,3 hours,49,980
+T049,Vaigai Express,Delhi to Kolkata,7:00 AM,10:00 PM,2 hours,41,990
+T050,Kerala Express,Pune to Chennai,8:00 AM,11:00 PM,3 hours,45,1000
